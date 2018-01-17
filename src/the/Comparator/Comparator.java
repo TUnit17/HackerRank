@@ -58,7 +58,10 @@ package the.Comparator;
  * int compare(T o1, T o2) 
  * boolean equals(Object obj) 
  * 
- * 1.2) 
+ * 1.2) Wht does compare return an int?
+ * -1: o1 < o2 
+ * 0: o1 == o2
+ * 1: o1 > o2
  * 
  * 
  * 2) What is an interface?
